@@ -1,0 +1,16 @@
+body{
+background-image:url('https://media.istockphoto.com/videos/bright-yellow-neon-lines-abstract-tech-motion-background-video-id1196042239?s=640x640') ;  
+  background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+div{
+    background-color: rgba(245, 222, 179, 0.774);
+    padding :50px 50px 50px 50px;
+    border-radius: 50px;
+    margin-left: 35%;
+    margin-right: 40%;
+    margin-top: 10%;
+
+}
